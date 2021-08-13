@@ -1,0 +1,50 @@
+F:\文件\项目\EmploymentManage\Model\bin\Debug\Model.dll
+F:\文件\项目\EmploymentManage\Model\bin\Debug\Model.pdb
+F:\文件\项目\EmploymentManage\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\文件\项目\EmploymentManage\Model\obj\Debug\Model.dll
+F:\文件\项目\EmploymentManage\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmploymentManage\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\Model\obj\Debug\Model.pdb
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\Model\bin\Debug\Model.dll
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\Model\bin\Debug\Model.pdb
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\Model\obj\Debug\Model.dll
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\Model\obj\Debug\Model.pdb

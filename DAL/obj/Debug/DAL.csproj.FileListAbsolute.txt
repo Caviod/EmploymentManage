@@ -1,0 +1,70 @@
+F:\文件\项目\EmploymentManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\文件\项目\EmploymentManage\DAL\bin\Debug\DAL.dll
+F:\文件\项目\EmploymentManage\DAL\bin\Debug\DAL.pdb
+F:\文件\项目\EmploymentManage\DAL\bin\Debug\Model.dll
+F:\文件\项目\EmploymentManage\DAL\bin\Debug\Model.pdb
+F:\文件\项目\EmploymentManage\DAL\obj\Debug\DAL.dll
+F:\文件\项目\EmploymentManage\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\EmploymentManage\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmploymentManage\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\EmploymentManage\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\EmploymentManage\EmploymentManage\EmploymentManage\DAL\obj\Debug\DAL.pdb
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\DAL\bin\Debug\DAL.dll
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\DAL\bin\Debug\DAL.pdb
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\DAL\bin\Debug\Model.dll
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\DAL\bin\Debug\Model.pdb
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\DAL\obj\Debug\DAL.dll
+E:\学习资料\ASP.NET\大学生就业信息管理系统\EmploymentManage\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="VateImage.aspx.cs" Inherits="admin_VateImage" %>
